@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yfroOacj7+SworHbH+zEborbfihJFQnb/kkN2v7yimeMmZWkYwyOWafqcYAqsn32eabmEVT3H23uL4UCMQu53g==",
+  "success": true,
+  "projectFilePath": "/Users/evanegan/Library/Application Support/Terraria/tModLoader/ModSources/weDonthaveaNameyet/weDonthaveaNameyet.csproj",
+  "expectedPackageFiles": [
+    "/Users/evanegan/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "/Users/evanegan/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "/Users/evanegan/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,5 @@
+displayName = i have no idea
+author = Evan+Salem
+version = 0.1
+modReferences = StructureHelper
+modReferences = SubworldLibrary
